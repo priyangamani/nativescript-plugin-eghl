@@ -1,4 +1,4 @@
-# NativeScript Tutorial JavaScript Template
+# NativeScript eGHL Plugin
 
 This repo serves as the starting point for NativeScript’s [JavaScript Getting Started Guide](https://docs.nativescript.org/tutorial/chapter-0).
 
