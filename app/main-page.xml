@@ -1,0 +1,8 @@
+<Page loaded="pageLoaded">
+  <ActionBar title="My App" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+  <GridLayout rows="auto,auto">
+    <Button  row="0" text="Alert" width="180" height="120"  tap="onAlertButtonTapped" />
+    <Button  row="1" text="TEST EGHL" width="180"  height="120"  tap="onEGHLButtonTapped" />
+  </GridLayout>
+</Page>

@@ -1,0 +1,2 @@
+OTHER_LDFLAGS = $(inherited) -l"EGHLPayment"
+LIBRARY_SEARCH_PATHS = $(inherited) "$(SRCROOT)/../../node_modules/nativescript-eghl/platforms/ios/"

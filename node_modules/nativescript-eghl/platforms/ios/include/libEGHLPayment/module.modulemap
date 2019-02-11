@@ -1,0 +1,5 @@
+module libEGHLPayment {
+    umbrella header "EGHLPayment.h"
+    export *
+    module * { export * }
+}
